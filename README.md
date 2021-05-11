@@ -1,25 +1,25 @@
-PNP-PGD-CNC
+# PNP-PGD-CNC
 
 The implement of the following paper:
  "Plug-and-Play Algorithm for Magnetic Resonance Image Reconstruction"
 
-Scripts
+# Scripts
 
-# PGD-L1
+## PGD-L1
 
 PGD_L1.py (The definition of PGD-L1 algorithm)
 
-# PNP-PGD-L1
+## PNP-PGD-L1
 
 PNP_PGD_L1_BM3D.py (The definition is about the use of BM3D denoising under the PNP_PGD_L1 framework)
 
 PNP_PGD_L1_D.py (The definition is about the use of neural network denoising under the PNP_PGD_L1 framework)
 
-# PGD-CNC
+## PGD-CNC
 
 PGD_CNC.py (The definition of PGD_CNC algorithm)
 
-# PNP-PGD-CNC
+## PNP-PGD-CNC
 
 PNP_PGD_CNC_BM3D.py (The definition is about the use of BM3D denoising under the PNP_PGD_CNC framework)
 
